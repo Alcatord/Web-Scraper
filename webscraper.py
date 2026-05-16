@@ -3,7 +3,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║            WebScraper — Pure Python Scraper             ║
 ║        by Alcatord | github.com/Alcatord                ║
-║   No external dependencies — pure Python stdlib only    ║
+║   No external dependencies - pure Python stdlib only    ║
 ╚══════════════════════════════════════════════════════════╝
 """
 
